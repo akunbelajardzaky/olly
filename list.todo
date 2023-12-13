@@ -1,0 +1,23 @@
+TODO <div className="flex items-center">
+
+            <img src="https://img.logoipsum.com/331.svg" alt="Logo" className="h-8 w-8  ml-2" height={1000} width={1000} />
+
+            <nav className="hidden md:flex items-center space-x-4 text-center justify-center">
+              <a href="#" className="hover:text-gray-400">
+                Beranda
+              </a>
+              <a href="#" className="hover:text-gray-400">
+                Tentang Kami
+              </a>
+              <a href="#" className="hover:text-gray-400">
+                Layanan
+              </a>
+              <a href="#" className="hover:text-gray-400">
+                Kontak
+              </a>
+            </nav>{" "}
+
+             <div className="xl:hidden btn p-2 bg-blue-400 text-white rounded-2xl focus:outline-none ">Log In</div>
+
+          </div>
+

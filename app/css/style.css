@@ -1,0 +1,20 @@
+@media screen and (max-width:767px) {
+    .btn {
+        display: none;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .menu-burger {
+        display: none;
+    }
+}
+
+
+.bg-image {
+
+    background-size: cover;
+    max-width: 300vh;
+    background-position: center;
+    background: url("https://alreefat.com/assets/images/mecca-banner.svg");
+}
